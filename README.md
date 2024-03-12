@@ -1,2 +1,2 @@
-# sentiment_analysis
-Sentiment Analysis Practice 
+# niche_spellcheck
+Practicing NLP Techniques and Learning Spellcheck Algorithms
